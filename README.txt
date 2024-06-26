@@ -1,16 +1,20 @@
 ////////////////////////////////////
-Tetis v9
+Tetis V9.1
 GIMHA - UPV
-http://lluvia.dihma.upv.es/index_en.html
+https://iiama.webs.upv.es/investigacion/grupos-de-investigacion/modelacion-hidrologica-y-ambiental/
 /////////////////////////
 
-To use this interface,it's needed to have installed :
+In this repository you will find:
 
-- Intel Visual Fortran Redistributables --> Download the last update from right column
-(https://software.intel.com/en-us/articles/redistributables-for-intel-parallel-studio-xe-2015-composer-edition-for-windows)
+tetis91_fortran.zip --> Intel Visual Fortran Redistributable installation packages to run Tetis
+						32 and 64 bit versions
 
-- Microsoft Visual C++ 2013 Redistributable   
-( https://www.microsoft.com/en-us/download/details.aspx?id=40784 )
+tetis91_visualc++2013.zip --> Visual C++ 2013 Redistributable installation packages to run Tetis
+							  64 bit versions
 
-- Java
-( https://www.java.com/en/download/ )
+tetis91_manuals.zip --> User's and descriptive manuals for the Tetis model
+
+tetis91_linux.zip --> Tetis executables for Linux
+
+tetis91_winSetup.zip --> Tetis Insallers V9.1
+						 32 and 64 bit versions
