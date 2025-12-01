@@ -47,3 +47,12 @@ Antes de instalar TETIS, instala lo siguiente:
 
 Nota: En caso de reinstalación cierra completamente TETIS si está abierto.
 
+---
+
+## 🖥️ Citar como
+Consulte el modelo principal citando a Frances, F et al. (2007)
+<div class="csl-entry">Francés, F., Vélez, J. I., &#38; Vélez, J. J. (2007). Split-parameter structure for the automatic calibration of distributed hydrological models. <i>Journal of Hydrology</i>, <i>332</i>(1–2), 226–240. https://doi.org/10.1016/j.jhydrol.2006.06.032</div>
+
+El modelo y sus manuales se pueden citar generalmente como:
+
+Para citar alguna versión, porfavor visitar: 
