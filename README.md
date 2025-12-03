@@ -1,6 +1,8 @@
 # TETIS V9.1  
 GIMHA – UPV  
 https://gimha.upv.es/
+Grupo de soporte / Support group
+https://groups.google.com/g/soportegimha
 
 ---
 
@@ -57,4 +59,11 @@ Consulte el modelo principal citando a Frances, F et al. (2007) / Consult the ma
 
 El modelo y sus manuales se pueden citar generalmente como: / The model and its manuals can be cited generally as:
 
-Para citar alguna versión, porfavor visitar: / To cite a specific version, please visit:
+Para citar el modulo de fusión de nieve: / To cite the snowmelt module:
+<div>
+  Francés, F., Vélez, J. I., & Bussi, G. (2019).  
+  A distributed object-oriented simulation framework for catchment modelling.  
+  <i>Water</i>, <i>11</i>(6), 1288.  
+  <a href="https://www.mdpi.com/2073-4441/11/6/1288">https://www.mdpi.com/2073-4441/11/6/1288</a>
+</div>
+
