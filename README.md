@@ -1,9 +1,13 @@
 # TETIS V9.1  
 GIMHA – UPV  
 https://gimha.upv.es/
-<br>
+<br><br>
 Grupo de soporte / Support group  
 https://groups.google.com/g/soportegimha
+<br><br>
+Manuales / Manuals  
+https://doi.org/10.5281/zenodo.17780029
+
 
 ---
 
