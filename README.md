@@ -59,9 +59,21 @@ Nota: En caso de reinstalación cierra completamente TETIS si está abierto. / N
 ## 🖥️ Citar como / How to Cite
 Consulte el modelo principal citando a Frances, F et al. (2007) / Consult the main model by citing Frances, F et al. (2007)
 <ul><li><p>
-  Francés, F., Vélez, J.I., Vélez, J.J., 2007. Split-parameter structure for the automatic calibration of distributed hydrological models. J Hydrol (Amst) 332, 226–240.
+  Francés, F., Vélez, J.J., Vélez, J.I., 2007. Split-parameter structure for the automatic calibration of distributed hydrological models. J Hydrol (Amst) 332, 226–240.
   <a href="https://doi.org/10.1016/j.jhydrol.2006.06.032" target="_blank">https://doi.org/10.1016/j.jhydrol.2006.06.032</a>
+</p> </li>
+<li><p>
+* Francés, F., Vélez, J.I., Vélez, J.J.,and M. Puricelli, 2002. Distributed modelling of large basins for real time flood forecasting system in Spain. Second Federal Interagency Hydrologic Modeling Conference. https://www.researchgate.net/publication/271194077_Distributed_modelling_of_large_basins_for_real_time_flood_forecasting_system_in_Spain
 </p> </li> </ul>
+
+
+Referenciar el uso de los factores correctores (FCs) / Reference the use of corrector factors (CFs) 
+<ul><li><p>
+  Francés García, F., & Benito Casado, J., 2007. La modelación distribuida con pocos parámetros de las crecidas. Ingeniería Del Agua, 2(4), 7–24.
+  <a href="https://doi.org/10.4995/ia.1995.2684" target="_blank">https://doi.org/10.4995/ia.1995.2684</a>
+</p> </li> </ul>
+
+
 Para citar el submodelo de sedimentos: / To cite the sediment sub-model:
 <ul><li><p>
   Bussi, G., Francés, F., Horel, E., López-Tarazón, J.A., Batalla, R.J., 2014. Modelling the impact of climate change on sediment yield in a highly erodible Mediterranean catchment. J Soils Sediments 14, 1921–1937.
