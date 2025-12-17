@@ -63,7 +63,7 @@ Consulte el modelo principal citando a Frances, F et al. (2007) / Consult the ma
   <a href="https://doi.org/10.1016/j.jhydrol.2006.06.032" target="_blank">https://doi.org/10.1016/j.jhydrol.2006.06.032</a>
 </p> </li>
 <li><p>
-* Francés, F., Vélez, J.I., Vélez, J.J.,and M. Puricelli, 2002. Distributed modelling of large basins for real time flood forecasting system in Spain. Second Federal Interagency Hydrologic Modeling Conference. https://www.researchgate.net/publication/271194077_Distributed_modelling_of_large_basins_for_real_time_flood_forecasting_system_in_Spain
+ Francés, F., Vélez, J.I., Vélez, J.J.,and M. Puricelli, 2002. Distributed modelling of large basins for real time flood forecasting system in Spain. Second Federal Interagency Hydrologic Modeling Conference. https://www.researchgate.net/publication/271194077_Distributed_modelling_of_large_basins_for_real_time_flood_forecasting_system_in_Spain
 </p> </li> </ul>
 
 
