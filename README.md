@@ -69,7 +69,7 @@ Consulte el modelo principal citando a Frances, F et al. (2007) / Consult the ma
 
 Referenciar el uso de los factores correctores (FCs) / Reference the use of corrector factors (CFs) 
 <ul><li><p>
-  Francés García, F., & Benito Casado, J., 2007. La modelación distribuida con pocos parámetros de las crecidas. Ingeniería Del Agua, 2(4), 7–24.
+  Francés García, F., & Benito Casado, J., 1995. La modelación distribuida con pocos parámetros de las crecidas. Ingeniería Del Agua, 2(4), 7–24.
   <a href="https://doi.org/10.4995/ia.1995.2684" target="_blank">https://doi.org/10.4995/ia.1995.2684</a>
 </p> </li> </ul>
 
